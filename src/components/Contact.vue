@@ -51,9 +51,9 @@
 	            	<div class="col-12 col-md-6" >
 	            		
 	            		 <div class="col-12 mx-auto mt-3">
-	            		    <a href="https://www.facebook.com/login/" target="_blank"><img src="./images/fb.png" alt="Facebook" class="logo" width="50"></a>
-	            		    <a href="https://www.linkedin.com/login" target="_blank"><img src="./images/linkedin.png" alt="Linkedin" class="logo" width="38"></a>
-	            		    <a href="https://github.com/login" target="_blank"><img src="./images/gitwhite.png" alt="GitHub" class="logo" width="40"></a>
+	            		    <a href="https://www.facebook.com/login/" target="_blank"><img src="/images/fb.png" alt="Facebook" class="logo" width="50"></a>
+	            		    <a href="https://www.linkedin.com/login" target="_blank"><img src="/images/linkedin.png" alt="Linkedin" class="logo" width="38"></a>
+	            		    <a href="https://github.com/login" target="_blank"><img src="/images/gitwhite.png" alt="GitHub" class="logo" width="40"></a>
 	            		 </div>
 
 	            	</div>
