@@ -227,3 +227,7 @@ nav .nav-link{
     text-decoration: none;
     scroll-behavior: smooth;
 }
+
+footer {
+  background-color: #111;
+}
