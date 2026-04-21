@@ -8,8 +8,8 @@
   },
   {
     "id": 2,
-    "title": "Course Booking API Documentation",
-    "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activation, and student enrollment. Publicly documented using Postman.",
+    "title": "E-commerce Applcation",
+    "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cart updates, secure checkout, and a comprehensive admin dashboard with real-time analytics and user management capabilities.",
     "image": "/images/TechTitan.png",
     "link": "https://tech-titan-ecommerce.vercel.app/products"
   },
