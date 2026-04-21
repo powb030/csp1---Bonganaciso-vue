@@ -10,7 +10,8 @@
     "id": 2,
     "title": "Course Booking API Documentation",
     "description": "RESTful API for managing course enrollments, featuring user registration, authentication, and retrieval of user details. Supports course creation, updates, archiving, activation, and student enrollment. Publicly documented using Postman.",
-    "image": "/images/Course-booking-API.png"
+    "image": "/images/TechTitan.png",
+    "link": "https://tech-titan-ecommerce.vercel.app/products"
   },
   {
     "id": 3,
