@@ -23,7 +23,7 @@
     "id": 4,
     "title": "Blog Application API Documentation",
     "description": "Blog Application API is a RESTful back-end service that powers a blogging platform by handling data operations for posts and users. It supports full CRUD functionality, enabling the creation, retrieval, updating, and deletion of blog content, while demonstrating structured routing, middleware usage, and database integration.",
-    "image": "/images/E-commerce App.png",
+    "image": "/images/BlogApplicationApi.png",
     "link": "https://github.com/powb030/s87-s89-Blog-Application"
   },
   {
