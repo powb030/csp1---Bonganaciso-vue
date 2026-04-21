@@ -125,12 +125,13 @@
         Accept: "application/json"
       },
       body: JSON.stringify({
-        access_key: WEB3FORMS_ACCESS_KEY,
-        subject: subject,
-        name: name.value,
-        email: email.value,
-        message: message.value
-      })
+  		access_key: WEB3FORMS_ACCESS_KEY,
+  		subject: subject,
+  		name: name.value,
+  		email: email.value,
+  		message: message.value,
+  		"g-recaptcha-response": recaptchaToken.value
+		})
     });
 
     const result = await response.json();
