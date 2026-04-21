@@ -21,14 +21,14 @@
   },
   {
     "id": 4,
-    "title": "Blog Application API",
+    "title": "Blog Application API Documentation",
     "description": "MERN E-Commerce Platform. The platform features dynamic product catalog with filtering and sorting, real-time search, seamless cart updates, secure checkout, and a comprehensive admin dashboard with real-time analytics and user management capabilities.",
     "image": "/images/E-commerce App.png"
   },
   {
     "id": 5,
     "title": "Blog Application",
-    "description": "Side Project: Conceptual design showcasing an intuitive UI for flight search, seat selection, and booking confirmation, focusing on user experience and workflow efficiency.",
+    "description": "Blog Application is a full-stack web platform that enables users to browse and manage blog posts through a responsive and user-friendly interface. It integrates a RESTful API to handle CRUD operations, demonstrating skills in front-end development, API integration, and data management.",
     "image": "/images/Airline Booking System Mockup.jpg",
     "link": "https://blog-application-lovat-eight.vercel.app"
   },
